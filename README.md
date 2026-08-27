@@ -42,54 +42,7 @@ como um portfólio e um meio de mostrar minhas ideias, projetos e estudos que ve
 <p align="center">˚ · . · ⋆ ・ 。 . ⭒ ⋆ . ˚ · . · ⋆ ・ 。 . ⭒ ⋆ . ˚</p>
 
 
-## Sobre mim
 
-- Estudante de **Engenharia de Software**
-- Interesse em desenvolvimento web e de software
-- Curiosidade por **Inteligência Artificial**
-- Sempre aprendendo novas tecnologias
-- Construindo projetos para o meu portfólio
-
-<br>
-
-
-## Projetos
-
-<table width="100%">
-  <tr>
-    <td width="100%" valign="top">
-      <h3>Farm Valley</h3>
-      <p>Um jogo de fazenda em texto, feito em Python puro. Tem economia própria, plantações, pecuária, pesca e loja com upgrades.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-B8E0D2?style=flat-square&logo=python&logoColor=4A3B5C"/>
-      </p>
-      <a href="https://github.com/Mary-Mrtns/Farm-Valley">🔗 Ver repositório</a>
-    </td>
-  </tr>
-</table>
-
-<p align="center"><i>Mais projetos em breve — este espaço vai crescer junto com o portfólio. </i></p>
-
-<br>
-
-
-## ✉️ Contato
-
-<div align="center">
-
-<a href="https://github.com/Mary-Mrtns">
-  <img src="https://img.shields.io/badge/GitHub-4A3B5C?style=for-the-badge&logo=github&logoColor=F7CFE1"/>
-</a>
-  <a href="[https://www.instagram.com/marigtm_/]">
-    <img src="https://img.shields.io/badge/Instagram-F7A8B8?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/>
-  </a>
-  <a href="mailto:[gabrielymariany74@gmail.com]">
-    <img src="https://img.shields.io/badge/E--mail-FDE4CF?style=for-the-badge&logo=gmail&logoColor=4A3B5C"/>
-  </a>
--->
-</div>
-
-<br>
 
 <!--
   BANNER DE RODAPÉ
