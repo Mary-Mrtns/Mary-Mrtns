@@ -38,9 +38,6 @@ como um portfólio e um meio de mostrar minhas ideias, projetos e estudos que ve
 
 <br>
 
-
-<p align="center">˚ · . · ⋆ ・ 。 . ⭒ ⋆ . ˚ · . · ⋆ ・ 。 . ⭒ ⋆ . ˚</p>
-
 <h2 align="center"> Estatística</h2>
 
 <div align="center">
