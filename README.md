@@ -38,13 +38,5 @@ como um portfólio e um meio de mostrar minhas ideias, projetos e estudos que ve
 
 <br>
 
-<h2 align="center"> Estatística</h2>
-
-<div align="center">
-
-<img height="140em" src="https://github-stats-extended.vercel.app/api?username=Mary-Mrtns&show_icons=true&theme=dracula&count_private=true"/>
-<img height="140em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mary-Mrtns&layout=compact&langs_count=8&theme=dracula"/>
-
-</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C8B6E4,100:F7CFE1&height=100&section=footer" alt="Banner de rodapé" />
