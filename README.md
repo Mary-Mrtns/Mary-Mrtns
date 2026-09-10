@@ -31,7 +31,7 @@ como um portfólio e um meio de mostrar minhas ideias, projetos e estudos que ve
 ![JavaScript](https://img.shields.io/badge/JavaScript-FDE4CF?style=for-the-badge&logo=javascript&logoColor=4A3B5C)
 ![Python](https://img.shields.io/badge/Python-B8E0D2?style=for-the-badge&logo=python&logoColor=4A3B5C)
 ![Git](https://img.shields.io/badge/Git-F7CFE1?style=for-the-badge&logo=git&logoColor=4A3B5C)
-![GitHub](https://img.shields.io/badge/GitHub-C8B6E4?style=for-the-badge&logo=github&logoColor=4A3B5C)
+
 
 
 </div>
