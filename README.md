@@ -12,7 +12,7 @@
 
 </div>
 
-# Mariany Martins
+# Mariany Gabriely
 > Entre linhas de código e constelações de ideias, cultivo meu próprio universo, com curiosidade para explorar, paciência para aprender e carinho por cada pequeno progresso.
 
 Sou **Mariany**, estudante de **Engenharia de Software**. Tenho interesse por
